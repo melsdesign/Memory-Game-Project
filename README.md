@@ -5,8 +5,7 @@ This game tests your memory and challenges you to match the cards in as few move
 This project is part of the Udacity FEND Nanodegree program.
 Was a real challenge for me 
 
-# You can play the game in your browser by clicking here : https://melsdesign.github.io/Udacity-Memory-Game-Project/
-
+# You can play the game in your browser by clicking here: https://melsdesign.github.io/Memory-Game-Project/
 # How to Play
 Click here to load the game into your browser: https://melsdesign.github.io/Memory-Game-Project/ 
 
