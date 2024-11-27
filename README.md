@@ -8,7 +8,7 @@ Was a real challenge for me
 # You can play the game in your browser by clicking here : https://melsdesign.github.io/Udacity-Memory-Game-Project/
 
 # How to Play
-Click here to load the game into your browser:https://melsdesign.github.io/Udacity-Memory-Game-Project/
+Click here to load the game into your browser: https://melsdesign.github.io/Memory-Game-Project/ 
 
 The key to the game is to remember the card symbols and match the pairs in as few tries (moves) as possible.
 
